@@ -1,0 +1,54 @@
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\PriceCompare\PriceCompare\bin\Debug\PriceCompare.dll
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\PriceCompare\PriceCompare\bin\Debug\PriceCompare.pdb
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\PriceCompare\PriceCompare\obj\Debug\PriceCompare.csprojResolveAssemblyReference.cache
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\PriceCompare\PriceCompare\obj\Debug\PriceCompare.dll
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\PriceCompare\PriceCompare\obj\Debug\PriceCompare.pdb
+C:\Users\eabukara\Desktop\pc\PriceCompare\bin\Debug\PriceCompare.dll
+C:\Users\eabukara\Desktop\pc\PriceCompare\bin\Debug\PriceCompare.pdb
+C:\Users\eabukara\Desktop\pc\PriceCompare\obj\Debug\PriceCompare.csprojResolveAssemblyReference.cache
+C:\Users\eabukara\Desktop\pc\PriceCompare\obj\Debug\PriceCompare.dll
+C:\Users\eabukara\Desktop\pc\PriceCompare\obj\Debug\PriceCompare.pdb
+C:\Users\elio_\OneDrive\C#\pc\PriceCompare\bin\Debug\PriceCompare.dll
+C:\Users\elio_\OneDrive\C#\pc\PriceCompare\bin\Debug\PriceCompare.pdb
+C:\Users\elio_\OneDrive\C#\pc\PriceCompare\obj\Debug\PriceCompare.csprojResolveAssemblyReference.cache
+C:\Users\elio_\OneDrive\C#\pc\PriceCompare\obj\Debug\PriceCompare.dll
+C:\Users\elio_\OneDrive\C#\pc\PriceCompare\obj\Debug\PriceCompare.pdb
+C:\Users\elio_\OneDrive\CourseLabs\pc\PriceCompare\bin\Debug\PriceCompare.dll
+C:\Users\elio_\OneDrive\CourseLabs\pc\PriceCompare\bin\Debug\PriceCompare.pdb
+C:\Users\elio_\OneDrive\CourseLabs\pc\PriceCompare\obj\Debug\PriceCompare.csprojResolveAssemblyReference.cache
+C:\Users\elio_\OneDrive\CourseLabs\pc\PriceCompare\obj\Debug\PriceCompare.dll
+C:\Users\elio_\OneDrive\CourseLabs\pc\PriceCompare\obj\Debug\PriceCompare.pdb
+C:\Users\eabukara\Desktop\pcc\PriceCompare\bin\Debug\PriceCompare.dll
+C:\Users\eabukara\Desktop\pcc\PriceCompare\bin\Debug\PriceCompare.pdb
+C:\Users\eabukara\Desktop\pcc\PriceCompare\obj\Debug\PriceCompare.csprojResolveAssemblyReference.cache
+C:\Users\eabukara\Desktop\pcc\PriceCompare\obj\Debug\PriceCompare.dll
+C:\Users\eabukara\Desktop\pcc\PriceCompare\obj\Debug\PriceCompare.pdb
+C:\Users\elio_\OneDrive\CourseLabs\pcc\PriceCompare\bin\Debug\PriceCompare.dll
+C:\Users\elio_\OneDrive\CourseLabs\pcc\PriceCompare\bin\Debug\PriceCompare.pdb
+C:\Users\elio_\OneDrive\CourseLabs\pcc\PriceCompare\obj\Debug\PriceCompare.csprojResolveAssemblyReference.cache
+C:\Users\elio_\OneDrive\CourseLabs\pcc\PriceCompare\obj\Debug\PriceCompare.dll
+C:\Users\elio_\OneDrive\CourseLabs\pcc\PriceCompare\obj\Debug\PriceCompare.pdb
+C:\Users\eabukara\Desktop\pccc\PriceCompare\bin\Debug\PriceCompare.dll
+C:\Users\eabukara\Desktop\pccc\PriceCompare\bin\Debug\PriceCompare.pdb
+C:\Users\eabukara\Desktop\pccc\PriceCompare\obj\Debug\PriceCompare.csprojResolveAssemblyReference.cache
+C:\Users\eabukara\Desktop\pccc\PriceCompare\obj\Debug\PriceCompare.dll
+C:\Users\eabukara\Desktop\pccc\PriceCompare\obj\Debug\PriceCompare.pdb
+C:\Users\elio_\OneDrive\CourseLabs\pccc\PriceCompare\bin\Debug\PriceCompare.dll
+C:\Users\elio_\OneDrive\CourseLabs\pccc\PriceCompare\bin\Debug\PriceCompare.pdb
+C:\Users\elio_\OneDrive\CourseLabs\pccc\PriceCompare\obj\Debug\PriceCompare.csprojResolveAssemblyReference.cache
+C:\Users\elio_\OneDrive\CourseLabs\pccc\PriceCompare\obj\Debug\PriceCompare.dll
+C:\Users\elio_\OneDrive\CourseLabs\pccc\PriceCompare\obj\Debug\PriceCompare.pdb
+C:\Users\eliak\Desktop\New folder (2)\PriceCompare\bin\Debug\PriceCompare.dll
+C:\Users\eliak\Desktop\New folder (2)\PriceCompare\bin\Debug\PriceCompare.pdb
+C:\Users\eliak\Desktop\New folder (2)\PriceCompare\obj\Debug\PriceCompare.csprojResolveAssemblyReference.cache
+C:\Users\eliak\Desktop\New folder (2)\PriceCompare\obj\Debug\PriceCompare.dll
+C:\Users\eliak\Desktop\New folder (2)\PriceCompare\obj\Debug\PriceCompare.pdb
+F:\PriceCompare\PriceCompare\bin\Debug\PriceCompare.dll
+F:\PriceCompare\PriceCompare\bin\Debug\PriceCompare.pdb
+F:\PriceCompare\PriceCompare\obj\Debug\PriceCompare.csprojResolveAssemblyReference.cache
+F:\PriceCompare\PriceCompare\obj\Debug\PriceCompare.dll
+F:\PriceCompare\PriceCompare\obj\Debug\PriceCompare.pdb
+C:\Users\eabukara\Desktop\Labs-master\PriceCompare\PriceCompare\bin\Debug\PriceCompare.dll
+C:\Users\eabukara\Desktop\Labs-master\PriceCompare\PriceCompare\bin\Debug\PriceCompare.pdb
+C:\Users\eabukara\Desktop\Labs-master\PriceCompare\PriceCompare\obj\Debug\PriceCompare.dll
+C:\Users\eabukara\Desktop\Labs-master\PriceCompare\PriceCompare\obj\Debug\PriceCompare.pdb

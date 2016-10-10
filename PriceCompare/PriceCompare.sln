@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriceCompare", "PriceCompare\PriceCompare.csproj", "{9E97363D-BCF8-4C00-8B95-E3762D4A646C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriceCompareUI", "PriceCompareUI\PriceCompareUI.csproj", "{C3628D74-DA8F-44FC-8AF5-3AA9777DC046}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E97363D-BCF8-4C00-8B95-E3762D4A646C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E97363D-BCF8-4C00-8B95-E3762D4A646C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E97363D-BCF8-4C00-8B95-E3762D4A646C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E97363D-BCF8-4C00-8B95-E3762D4A646C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3628D74-DA8F-44FC-8AF5-3AA9777DC046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3628D74-DA8F-44FC-8AF5-3AA9777DC046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3628D74-DA8F-44FC-8AF5-3AA9777DC046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3628D74-DA8F-44FC-8AF5-3AA9777DC046}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

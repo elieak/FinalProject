@@ -1,0 +1,124 @@
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\PriceCompare\PriceCompareUI\bin\Debug\PriceCompareUI.exe.config
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\PriceCompare\PriceCompareUI\bin\Debug\PriceCompareUI.exe
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\PriceCompare\PriceCompareUI\bin\Debug\PriceCompareUI.pdb
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\PriceCompare\PriceCompareUI\bin\Debug\PriceCompare.dll
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\PriceCompare\PriceCompareUI\bin\Debug\PriceCompare.pdb
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\PriceCompare\PriceCompareUI\obj\Debug\PriceCompareUI.csprojResolveAssemblyReference.cache
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\PriceCompare\PriceCompareUI\obj\Debug\PriceCompareUI.Form1.resources
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\PriceCompare\PriceCompareUI\obj\Debug\PriceCompareUI.Properties.Resources.resources
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\PriceCompare\PriceCompareUI\obj\Debug\PriceCompareUI.csproj.GenerateResource.Cache
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\PriceCompare\PriceCompareUI\obj\Debug\PriceCompareUI.exe
+C:\Users\elio_\Desktop\GihubLabs\Advanced dotNet Labs\PriceCompare\PriceCompareUI\obj\Debug\PriceCompareUI.pdb
+C:\Users\eabukara\Desktop\pc\PriceCompareUI\bin\Debug\PriceCompareUI.exe.config
+C:\Users\eabukara\Desktop\pc\PriceCompareUI\obj\Debug\PriceCompareUI.exe
+C:\Users\eabukara\Desktop\pc\PriceCompareUI\obj\Debug\PriceCompareUI.pdb
+C:\Users\eabukara\Desktop\pc\PriceCompareUI\bin\Debug\PriceCompareUI.exe
+C:\Users\eabukara\Desktop\pc\PriceCompareUI\bin\Debug\PriceCompareUI.pdb
+C:\Users\eabukara\Desktop\pc\PriceCompareUI\bin\Debug\PriceCompare.dll
+C:\Users\eabukara\Desktop\pc\PriceCompareUI\bin\Debug\PriceCompare.pdb
+C:\Users\eabukara\Desktop\pc\PriceCompareUI\obj\Debug\PriceCompareUI.csprojResolveAssemblyReference.cache
+C:\Users\eabukara\Desktop\pc\PriceCompareUI\obj\Debug\PriceCompareUI.Form1.resources
+C:\Users\eabukara\Desktop\pc\PriceCompareUI\obj\Debug\PriceCompareUI.Properties.Resources.resources
+C:\Users\eabukara\Desktop\pc\PriceCompareUI\obj\Debug\PriceCompareUI.csproj.GenerateResource.Cache
+C:\Users\elio_\OneDrive\C#\pc\PriceCompareUI\bin\Debug\PriceCompareUI.exe.config
+C:\Users\elio_\OneDrive\C#\pc\PriceCompareUI\obj\Debug\PriceCompareUI.exe
+C:\Users\elio_\OneDrive\C#\pc\PriceCompareUI\obj\Debug\PriceCompareUI.pdb
+C:\Users\elio_\OneDrive\C#\pc\PriceCompareUI\obj\Debug\PriceCompareUI.csprojResolveAssemblyReference.cache
+C:\Users\elio_\OneDrive\C#\pc\PriceCompareUI\obj\Debug\PriceCompareUI.Form1.resources
+C:\Users\elio_\OneDrive\C#\pc\PriceCompareUI\obj\Debug\PriceCompareUI.Properties.Resources.resources
+C:\Users\elio_\OneDrive\C#\pc\PriceCompareUI\obj\Debug\PriceCompareUI.csproj.GenerateResource.Cache
+C:\Users\elio_\OneDrive\C#\pc\PriceCompareUI\bin\Debug\PriceCompareUI.exe
+C:\Users\elio_\OneDrive\C#\pc\PriceCompareUI\bin\Debug\PriceCompareUI.pdb
+C:\Users\elio_\OneDrive\C#\pc\PriceCompareUI\bin\Debug\PriceCompare.dll
+C:\Users\elio_\OneDrive\C#\pc\PriceCompareUI\bin\Debug\PriceCompare.pdb
+C:\Users\elio_\OneDrive\CourseLabs\pc\PriceCompareUI\bin\Debug\PriceCompareUI.exe.config
+C:\Users\elio_\OneDrive\CourseLabs\pc\PriceCompareUI\obj\Debug\PriceCompareUI.exe
+C:\Users\elio_\OneDrive\CourseLabs\pc\PriceCompareUI\obj\Debug\PriceCompareUI.pdb
+C:\Users\elio_\OneDrive\CourseLabs\pc\PriceCompareUI\bin\Debug\PriceCompareUI.exe
+C:\Users\elio_\OneDrive\CourseLabs\pc\PriceCompareUI\bin\Debug\PriceCompareUI.pdb
+C:\Users\elio_\OneDrive\CourseLabs\pc\PriceCompareUI\bin\Debug\PriceCompare.dll
+C:\Users\elio_\OneDrive\CourseLabs\pc\PriceCompareUI\bin\Debug\PriceCompare.pdb
+C:\Users\elio_\OneDrive\CourseLabs\pc\PriceCompareUI\obj\Debug\PriceCompareUI.csprojResolveAssemblyReference.cache
+C:\Users\elio_\OneDrive\CourseLabs\pc\PriceCompareUI\obj\Debug\PriceCompareUI.Form1.resources
+C:\Users\elio_\OneDrive\CourseLabs\pc\PriceCompareUI\obj\Debug\PriceCompareUI.Properties.Resources.resources
+C:\Users\elio_\OneDrive\CourseLabs\pc\PriceCompareUI\obj\Debug\PriceCompareUI.csproj.GenerateResource.Cache
+C:\Users\eabukara\Desktop\pcc\PriceCompareUI\bin\Debug\PriceCompareUI.exe.config
+C:\Users\eabukara\Desktop\pcc\PriceCompareUI\obj\Debug\PriceCompareUI.exe
+C:\Users\eabukara\Desktop\pcc\PriceCompareUI\obj\Debug\PriceCompareUI.pdb
+C:\Users\eabukara\Desktop\pcc\PriceCompareUI\bin\Debug\PriceCompareUI.exe
+C:\Users\eabukara\Desktop\pcc\PriceCompareUI\bin\Debug\PriceCompareUI.pdb
+C:\Users\eabukara\Desktop\pcc\PriceCompareUI\bin\Debug\PriceCompare.dll
+C:\Users\eabukara\Desktop\pcc\PriceCompareUI\bin\Debug\PriceCompare.pdb
+C:\Users\eabukara\Desktop\pcc\PriceCompareUI\obj\Debug\PriceCompareUI.csprojResolveAssemblyReference.cache
+C:\Users\eabukara\Desktop\pcc\PriceCompareUI\obj\Debug\PriceCompareUI.Form1.resources
+C:\Users\eabukara\Desktop\pcc\PriceCompareUI\obj\Debug\PriceCompareUI.Properties.Resources.resources
+C:\Users\eabukara\Desktop\pcc\PriceCompareUI\obj\Debug\PriceCompareUI.csproj.GenerateResource.Cache
+C:\Users\elio_\OneDrive\CourseLabs\pcc\PriceCompareUI\bin\Debug\PriceCompareUI.exe.config
+C:\Users\elio_\OneDrive\CourseLabs\pcc\PriceCompareUI\obj\Debug\PriceCompareUI.exe
+C:\Users\elio_\OneDrive\CourseLabs\pcc\PriceCompareUI\obj\Debug\PriceCompareUI.pdb
+C:\Users\elio_\OneDrive\CourseLabs\pcc\PriceCompareUI\bin\Debug\PriceCompareUI.exe
+C:\Users\elio_\OneDrive\CourseLabs\pcc\PriceCompareUI\bin\Debug\PriceCompareUI.pdb
+C:\Users\elio_\OneDrive\CourseLabs\pcc\PriceCompareUI\bin\Debug\PriceCompare.dll
+C:\Users\elio_\OneDrive\CourseLabs\pcc\PriceCompareUI\bin\Debug\PriceCompare.pdb
+C:\Users\elio_\OneDrive\CourseLabs\pcc\PriceCompareUI\obj\Debug\PriceCompareUI.csprojResolveAssemblyReference.cache
+C:\Users\elio_\OneDrive\CourseLabs\pcc\PriceCompareUI\obj\Debug\PriceCompareUI.Form1.resources
+C:\Users\elio_\OneDrive\CourseLabs\pcc\PriceCompareUI\obj\Debug\PriceCompareUI.Properties.Resources.resources
+C:\Users\elio_\OneDrive\CourseLabs\pcc\PriceCompareUI\obj\Debug\PriceCompareUI.csproj.GenerateResource.Cache
+C:\Users\eabukara\Desktop\pccc\PriceCompareUI\bin\Debug\PriceCompareUI.exe.config
+C:\Users\eabukara\Desktop\pccc\PriceCompareUI\obj\Debug\PriceCompareUI.exe
+C:\Users\eabukara\Desktop\pccc\PriceCompareUI\obj\Debug\PriceCompareUI.pdb
+C:\Users\eabukara\Desktop\pccc\PriceCompareUI\bin\Debug\PriceCompareUI.exe
+C:\Users\eabukara\Desktop\pccc\PriceCompareUI\bin\Debug\PriceCompareUI.pdb
+C:\Users\eabukara\Desktop\pccc\PriceCompareUI\bin\Debug\PriceCompare.dll
+C:\Users\eabukara\Desktop\pccc\PriceCompareUI\bin\Debug\PriceCompare.pdb
+C:\Users\eabukara\Desktop\pccc\PriceCompareUI\obj\Debug\PriceCompareUI.csprojResolveAssemblyReference.cache
+C:\Users\eabukara\Desktop\pccc\PriceCompareUI\obj\Debug\PriceCompareUI.Form1.resources
+C:\Users\eabukara\Desktop\pccc\PriceCompareUI\obj\Debug\PriceCompareUI.Properties.Resources.resources
+C:\Users\eabukara\Desktop\pccc\PriceCompareUI\obj\Debug\PriceCompareUI.csproj.GenerateResource.Cache
+C:\Users\elio_\OneDrive\CourseLabs\pccc\PriceCompareUI\bin\Debug\PriceCompareUI.exe.config
+C:\Users\elio_\OneDrive\CourseLabs\pccc\PriceCompareUI\obj\Debug\PriceCompareUI.exe
+C:\Users\elio_\OneDrive\CourseLabs\pccc\PriceCompareUI\obj\Debug\PriceCompareUI.pdb
+C:\Users\elio_\OneDrive\CourseLabs\pccc\PriceCompareUI\bin\Debug\PriceCompareUI.exe
+C:\Users\elio_\OneDrive\CourseLabs\pccc\PriceCompareUI\bin\Debug\PriceCompareUI.pdb
+C:\Users\elio_\OneDrive\CourseLabs\pccc\PriceCompareUI\bin\Debug\PriceCompare.dll
+C:\Users\elio_\OneDrive\CourseLabs\pccc\PriceCompareUI\bin\Debug\PriceCompare.pdb
+C:\Users\elio_\OneDrive\CourseLabs\pccc\PriceCompareUI\obj\Debug\PriceCompareUI.csprojResolveAssemblyReference.cache
+C:\Users\elio_\OneDrive\CourseLabs\pccc\PriceCompareUI\obj\Debug\PriceCompareUI.Form1.resources
+C:\Users\elio_\OneDrive\CourseLabs\pccc\PriceCompareUI\obj\Debug\PriceCompareUI.Properties.Resources.resources
+C:\Users\elio_\OneDrive\CourseLabs\pccc\PriceCompareUI\obj\Debug\PriceCompareUI.csproj.GenerateResource.Cache
+C:\Users\eliak\Desktop\New folder (2)\PriceCompareUI\bin\Debug\PriceCompareUI.exe.config
+C:\Users\eliak\Desktop\New folder (2)\PriceCompareUI\obj\Debug\PriceCompareUI.exe
+C:\Users\eliak\Desktop\New folder (2)\PriceCompareUI\obj\Debug\PriceCompareUI.pdb
+C:\Users\eliak\Desktop\PriceCompare\PriceCompareUI\bin\Debug\PriceCompareUI.exe.config
+C:\Users\eliak\Desktop\PriceCompare\PriceCompareUI\obj\Debug\PriceCompareUI.exe
+C:\Users\eliak\Desktop\PriceCompare\PriceCompareUI\obj\Debug\PriceCompareUI.pdb
+C:\Users\eliak\Desktop\PriceCompare\PriceCompareUI\bin\Debug\PriceCompareUI.exe
+C:\Users\eliak\Desktop\PriceCompare\PriceCompareUI\bin\Debug\PriceCompareUI.pdb
+C:\Users\eliak\Desktop\PriceCompare\PriceCompareUI\bin\Debug\PriceCompare.dll
+C:\Users\eliak\Desktop\PriceCompare\PriceCompareUI\bin\Debug\PriceCompare.pdb
+C:\Users\eliak\Desktop\PriceCompare\PriceCompareUI\obj\Debug\PriceCompareUI.csprojResolveAssemblyReference.cache
+C:\Users\eliak\Desktop\PriceCompare\PriceCompareUI\obj\Debug\PriceCompareUI.Form1.resources
+C:\Users\eliak\Desktop\PriceCompare\PriceCompareUI\obj\Debug\PriceCompareUI.Properties.Resources.resources
+C:\Users\eliak\Desktop\PriceCompare\PriceCompareUI\obj\Debug\PriceCompareUI.csproj.GenerateResource.Cache
+F:\PriceCompare\PriceCompareUI\bin\Debug\PriceCompareUI.exe.config
+F:\PriceCompare\PriceCompareUI\obj\Debug\PriceCompareUI.exe
+F:\PriceCompare\PriceCompareUI\obj\Debug\PriceCompareUI.pdb
+F:\PriceCompare\PriceCompareUI\bin\Debug\PriceCompareUI.exe
+F:\PriceCompare\PriceCompareUI\bin\Debug\PriceCompareUI.pdb
+F:\PriceCompare\PriceCompareUI\bin\Debug\PriceCompare.dll
+F:\PriceCompare\PriceCompareUI\bin\Debug\PriceCompare.pdb
+F:\PriceCompare\PriceCompareUI\obj\Debug\PriceCompareUI.csprojResolveAssemblyReference.cache
+F:\PriceCompare\PriceCompareUI\obj\Debug\PriceCompareUI.Form1.resources
+F:\PriceCompare\PriceCompareUI\obj\Debug\PriceCompareUI.Properties.Resources.resources
+F:\PriceCompare\PriceCompareUI\obj\Debug\PriceCompareUI.csproj.GenerateResource.Cache
+C:\Users\eabukara\Desktop\Labs-master\PriceCompare\PriceCompareUI\bin\Debug\PriceCompareUI.exe.config
+C:\Users\eabukara\Desktop\Labs-master\PriceCompare\PriceCompareUI\bin\Debug\PriceCompareUI.exe
+C:\Users\eabukara\Desktop\Labs-master\PriceCompare\PriceCompareUI\bin\Debug\PriceCompareUI.pdb
+C:\Users\eabukara\Desktop\Labs-master\PriceCompare\PriceCompareUI\bin\Debug\PriceCompare.dll
+C:\Users\eabukara\Desktop\Labs-master\PriceCompare\PriceCompareUI\bin\Debug\PriceCompare.pdb
+C:\Users\eabukara\Desktop\Labs-master\PriceCompare\PriceCompareUI\obj\Debug\PriceCompareUI.csprojResolveAssemblyReference.cache
+C:\Users\eabukara\Desktop\Labs-master\PriceCompare\PriceCompareUI\obj\Debug\PriceCompareUI.Form1.resources
+C:\Users\eabukara\Desktop\Labs-master\PriceCompare\PriceCompareUI\obj\Debug\PriceCompareUI.Properties.Resources.resources
+C:\Users\eabukara\Desktop\Labs-master\PriceCompare\PriceCompareUI\obj\Debug\PriceCompareUI.csproj.GenerateResource.Cache
+C:\Users\eabukara\Desktop\Labs-master\PriceCompare\PriceCompareUI\obj\Debug\PriceCompareUI.exe
+C:\Users\eabukara\Desktop\Labs-master\PriceCompare\PriceCompareUI\obj\Debug\PriceCompareUI.pdb

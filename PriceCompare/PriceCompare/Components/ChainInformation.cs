@@ -7,6 +7,11 @@ using System.Xml.Linq;
 
 namespace PriceCompare.Components
 {
+    /*
+     Just as we spoke, your code completely fulfills the requirements of the assignment.
+     Alas, you did not put your heart into the meaning of this excercise, which is designing a software system.
+     Which is understandable, considering all.
+         */
     public static class ChainInformation
     {
         public static string Vicotry => "7290696200003";

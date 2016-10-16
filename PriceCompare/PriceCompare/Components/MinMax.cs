@@ -2,6 +2,7 @@
 
 namespace PriceCompare.Components
 {
+    //Good idea - very flexible.
     public class MinMax
     {
         public string ChainId { get; set; }

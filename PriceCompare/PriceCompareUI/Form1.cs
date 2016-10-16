@@ -8,6 +8,16 @@ using PriceCompare.XmlManipulation;
 
 namespace PriceCompareUI
 {
+    /**
+    * When creating a UI application- consider one of the following paradigms: MVC, MVP or MVVM
+    * It is best to refrain from coding in the codebehind of the UI class.
+    * This enables better testability and separation of UI from User interaction and Business Logic.
+    * 
+    * Consider :
+    * a) https://he.wikipedia.org/wiki/Model_View_Controller
+    * b) https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter
+    * c) https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel
+    */
     public partial class Form1 : Form
     {
         private readonly PriceCalculator PriceCaluclator = new PriceCalculator();
@@ -21,6 +31,11 @@ namespace PriceCompareUI
         {
             try
             {
+                /*
+                 * It is not a good practice to be aware of persistence specifics (or of the existense of persistence) in UI code.
+                   Consider: https://en.wikipedia.org/wiki/Multitier_architecture
+
+                 */
                 XmlParser.ParseXml();
             }
             catch (InvalidOperationException)
@@ -30,6 +45,7 @@ namespace PriceCompareUI
             
             listBox1.Items.Clear();
 
+            //Any exception thrown by the task returned from the below method would crash your application
             var filteredList = await FilterXML.FilterXmlList();
 
             if (filteredList != null)
@@ -41,6 +57,10 @@ namespace PriceCompareUI
 
         private void addToCartBtn_Click(object sender, EventArgs e)
         {
+            //One month from now, will you remember what does listBox1 stand for? how about the other one? How about the difference between them
+            /*
+             * Consider: http://www.goodreads.com/book/show/3735293-clean-code
+             */
             if (listBox1.SelectedItem != null) listBox2.Items.Add(listBox1.SelectedItem);
         }
         private void RmvcartBtn_Click(object sender, EventArgs e)
